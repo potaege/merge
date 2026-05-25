@@ -1,2 +1,5 @@
-set up Requirements : Node.js v18+
-run: npx tsx run.ts
+## Requirements
+Node.js v18+ 
+
+## Run
+npx tsx run.ts
